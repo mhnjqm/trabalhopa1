@@ -1,0 +1,8 @@
+mvc\model\Medidas.class
+mvc\model\Medidores.class
+Tratador_pagina2_jsp.class
+Tratador_pagina1_jsp.class
+mvc\controller\IFTratadorDePaginas.class
+DAO\BaseDAO.class
+DAO\databaseDAO.class
+mvc\controller\Controller.class
